@@ -1,0 +1,13 @@
+title: Stories
+email: your-email@example.com
+description: >-
+  A simple blog for stories using Jekyll and the minima theme.
+baseurl: "" # leave empty for user/organization sites
+url: "https://SanathKumarKura.github.io" # update if you use a custom domain
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+paginate: 5
+markdown: kramdown
